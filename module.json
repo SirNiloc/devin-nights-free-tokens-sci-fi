@@ -1,0 +1,16 @@
+{
+  "id": "devin-nights-free-tokens-sci-fi",
+  "title": "Devin Night's Free Tokens (Sci-Fi)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Devin Night",
+      "url": "https://immortalnights.com/",
+      "flags": {}
+    }
+  ]
+}
