@@ -11,6 +11,13 @@
       "name": "Devin Night",
       "url": "https://immortalnights.com/",
       "flags": {}
+    },
+    {
+      "name": "SirNiloc",
+      "email": "sirniloc@ravn-quest.com",
+      "url": "https://github.com/SirNiloc",
+      "discord": "sirniloc",
+      "flags": {}
     }
   ],
     "manifest": "https://github.com/SirNiloc/ddevin-nights-free-tokens-sci-fi/releases/download/v1.0.0/module.json",
