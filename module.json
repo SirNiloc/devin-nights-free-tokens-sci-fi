@@ -1,7 +1,7 @@
 {
   "id": "devin-nights-free-tokens-sci-fi",
   "title": "Devin Night's Free Tokens (Sci-Fi)",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -20,7 +20,7 @@
       "flags": {}
     }
   ],
-    "manifest": "https://github.com/SirNiloc/ddevin-nights-free-tokens-sci-fi/releases/download/2.0.0/module.json",
-  "download": "https://github.com/SirNiloc/devin-nights-free-tokens-sci-fi/releases/download/2.0.0/ddevin-nights-free-tokens-sci-fi.zip",
+    "manifest": "https://github.com/SirNiloc/ddevin-nights-free-tokens-sci-fi/releases/download/2.0.1/module.json",
+  "download": "https://github.com/SirNiloc/devin-nights-free-tokens-sci-fi/releases/download/2.0.1/module.zip",
   "description": "Module for Devin Night's Free KS Tokens.\n\nThe really awesome tokens were made by Devin Night, he’s so hot right now.\n\nSources Site: https://immortalnights.com/\n\nToken Usage: https://immortalnights.com/tokens/token-usage-rights/"  
 }
